@@ -1,5 +1,5 @@
 # BER-Analyzer
-A matlab base simulator
+A Matlab based Simulator
 
 <a href="https://drive.google.com/open?id=1YeLfSlHu_kEw4HCBRaceprmivBkVl49f" target="_blank"> GOOGLE DRIVE LINK </a> 
 
